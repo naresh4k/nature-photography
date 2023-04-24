@@ -1,0 +1,38 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+}
+
+.app-container > div {
+  display: flex;
+  flex-direction: column;
+  width: 85%;
+  margin: 34px 0;
+  max-width: 1140px;
+}
+
+.selected-image {
+  border-radius: 18px;
+}
+
+h1 {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: 24px;
+}
+
+p {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0px;
+}

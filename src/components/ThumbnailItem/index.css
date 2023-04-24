@@ -1,0 +1,12 @@
+li {
+  margin-right: 16px;
+  margin-bottom: 16px;
+}
+
+li button {
+  background: transparent;
+  border: none;
+  padding: 0;
+  outline: none;
+  cursor: pointer;
+}
